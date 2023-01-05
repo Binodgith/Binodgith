@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on **any awesome projects**
 - 💬 Ask me about **JAVA, Javascript**
 - 📫 How to reach me -&gt; drop me a mail at <a href="dbinod2020@gmail.com">dbinod2020@gmail.com</a><br/>
-- ❤️ You can ping me at <a href="">LinkedIn</a><br/>
+- ❤️ You can ping me at <a href="https://www.linkedin.com/in/binod-dev/">LinkedIn</a><br/>
 - 👨‍💻 Want to Know about me <a href="https://binodgith.github.io/">My Portfolio</a><br/>
 - 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1MItWlk3VRDlb5BHgvHsP3tV8lwa4hT5F/view?usp=share_link">My Resume</a>
 
@@ -91,7 +91,7 @@
 <h3 align="left">📱 Connect with me:</h3>
 <p align="left">
 <a href="dbinod2020@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" alt="dbinod2020@gmail.com" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binod-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://binodgith.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/416639/website-ui-web.svg" alt="https://binodgith.github.io/" height="30" width="40" /></a>
 </p>
 
