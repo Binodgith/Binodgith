@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=gaurav62472744&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEW8G1vJixtxZjVim2Xt3AVazbNsgPqZC_Lj76FKm-B7MFmPgumpok7erdNj5BGVA8_HHVJW_lGSqFJkIJBZDWc-WNvxdiCwTciLscI_PuGsIlVvYHS7NgmQ3od5DRlrO_xh9bCYlZmMVt1D5-CEUr6Y=w798-h256-no?authuser=0" width="100%"/>
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEVua3u210fQr6bixH3sb0oNduTIRX93lzhvDz0Y7cUaYoo_SXsvDbQcVJY4fL6ZEx5a4dIHLOcSd34O9VfXAuB3fpzFWYz8Yodh7Hy3z5xg4CLGDbYWckBPvTFrkZuPKY1Wp8Mtz9ff7vHf28vrMrXu=w798-h256-no?authuser=0" width="100%"/>
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=<+Web+Developer+>;<+Java+Backend+Developer+>;<+Problem+Solver+>;&color=#146ebe&center=true" />
