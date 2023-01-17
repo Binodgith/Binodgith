@@ -39,7 +39,7 @@
 <hr>
 
 <h2 align=""center>Current Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=binodgith&theme=dark&border_radius=8&color=#43BEE5
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=binodgith&theme=tokyonight&border_radius=8&color=#43BEE5
 " alt="Binodgith" /></p>
 <br>
 
@@ -49,7 +49,7 @@
  <hr>
  <h2>✨ Top Languages Card</h2>
  <p align="center">
-  <a href="https://github.com/tusharkadam7671/github-readme-stats"><img alt="Binodgith" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharkadam7671&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/tusharkadam7671/github-readme-stats"><img alt="Binodgith" Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=tusharkadam7671&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></a>
   </p>
  
                                                                                              
@@ -59,7 +59,7 @@
 <div >
   <p align="center">
       <a href="https://github.com/binodgith/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binodgith's streak" src="https://github-readme-stats.vercel.app/api?username=binodgith&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binodgith's streak" src="https://github-readme-stats.vercel.app/api?username=binodgith&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
       </a>
   </p>
  </div >
