@@ -39,7 +39,8 @@
 <hr>
 
 <h2 align=""center>Current Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binodgith&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Binodgith" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=binodgith&theme=default&border_radius=8&color=#43BEE5
+" alt="Binodgith" /></p>
 <br>
 
 
