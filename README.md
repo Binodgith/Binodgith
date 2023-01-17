@@ -59,7 +59,7 @@
 <div >
   <p align="center">
       <a href="https://github.com/binodgith/github-readme-streak-stats">
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binodgith's streak" src="https://github-readme-stats.vercel.app/api?username=binodgith&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Binodgith's streak" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=binodgith&show_icons=true&theme=tokyonight&border_radius=8"/>
       </a>
   </p>
  </div >
