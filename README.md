@@ -22,10 +22,11 @@
 - 🔭 I’m currently pursuing **JAVA Back-End Development**
 - 👯 I’m looking to collaborate on **any awesome projects**
 - 💬 Ask me about **JAVA, Javascript**
-- 📫 How to reach me -&gt; drop me a mail at <a href="dbinod2020@gmail.com" target="_blank">dbinod2020@gmail.com</a><br/>
-- ❤️ You can ping me at [(Linkedin)](https://linkedin.com/in/binod-dev/)
+- 📫 How to reach me -&gt; drop me a mail at <a href="dbinod2020@gmail.com" >dbinod2020@gmail.com</a><br/>
+- ❤️ You can ping me at [Linkedin](https://www.linkedin.com/in/binod-dev/)
 - 👨‍💻 Want to Know about me <a href="https://binodgith.github.io/">My Portfolio</a><br/>
 - 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1MItWlk3VRDlb5BHgvHsP3tV8lwa4hT5F/view?usp=share_link">My Resume</a>
+- My Github profile - [Github](https://github.com/Binodgith)
 
 <hr color="blue"/ >
 
