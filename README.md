@@ -40,8 +40,7 @@
 <hr>
 
 <h2 align=""center>Current Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=binodgith&theme=tokyonight&border_radius=8&color=#43BEE5
-" alt="Binodgith" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Binodgith&theme=dark" /></p>
 <br>
 
 
@@ -50,7 +49,7 @@
  <hr>
  <h2>✨ Top Languages Card</h2>
  <p align="center">
-  <a href="https://github.com/binodgith/github-readme-stats"><img alt="Binodgith" Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=binodgith&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binodgith&theme=radical&langs_count=8"  width="24%"/>
   </p>
  
                                                                                              
@@ -60,8 +59,7 @@
 <div >
   <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Binodgith&show_icons=true&theme=radical" width="48%" />
-   <br>
-       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binodgith&theme=radical&langs_count=8"  width="24%"/>
+   
 
   </p>
  </div >
@@ -80,9 +78,11 @@
 
 
 
+
+
 <h2 align="left">📈 Contribution Graph </h2>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=binodgith&theme=rogue)](https://github.com/binodgith/github-readme-activity-graph)
+[![Github activity graph](https://ghchart.rshah.org/Binodgith)
 
                 
                 
