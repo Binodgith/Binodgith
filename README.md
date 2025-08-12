@@ -40,7 +40,7 @@
 <hr>
 
 <h2 align=""center>Current Streak</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Binodgith&theme=dark" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=binodgith&theme=default&border_radius=8&color=#43BEE5"/>
 <br>
 
 
@@ -49,7 +49,10 @@
  <hr>
  <h2>✨ Top Languages Card</h2>
  <p align="center">
+<!--     <img id="github-stat" src="https://github-readme-stats.vercel.app/api?username=Binodgith&show_icons=true&theme=radical" alt=""> -->
+  <br>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binodgith&theme=radical&langs_count=8"  width="24%"/>
+
   </p>
  
                                                                                              
@@ -60,7 +63,7 @@
   <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Binodgith&show_icons=true&theme=radical" width="48%" />
    
-
+       
   </p>
  </div >
  
@@ -80,9 +83,10 @@
 
 
 
-<h2 align="left">📈 Contribution Graph </h2>
+## 📈 Contribution Graph
 
 [![Github activity graph](https://ghchart.rshah.org/Binodgith)
+
 
                 
                 
